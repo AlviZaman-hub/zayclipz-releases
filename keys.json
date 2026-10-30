@@ -1,6 +1,7 @@
 {
   "note": "ZayClipz license keys. Delete a line to switch that key off (keep the commas right).",
   "keys": [
-    {"id": "GKG3", "hash": "f7140ca69c2ebfb64db5c3d6067d9ddff58f704352b60195149071ad68fa593b", "expires": "2027-04-28", "created": "2026-10-30", "label": "Mahi"}
+    {"id": "GKG3", "hash": "f7140ca69c2ebfb64db5c3d6067d9ddff58f704352b60195149071ad68fa593b", "expires": "2027-04-28", "created": "2026-10-30", "label": "Mahi"},
+    {"id": "WNLK", "hash": "ead66df3bd8e8e17efe3907729f1584afc5b251d650b9037b3b60fbe43bf2a5c", "expires": "2027-04-28", "created": "2026-10-30", "label": "Udoy"}
   ]
 }
